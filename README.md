@@ -34,7 +34,7 @@
 <a href="https://github.com/Lynn-Myat-Bhone" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/lynn-myat-bhone-5b15732a4">
+<a href="www.linkedin.com/in/lynn-myat-bhone-5b15732a4">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/@lynn_3112" target="_blank">
