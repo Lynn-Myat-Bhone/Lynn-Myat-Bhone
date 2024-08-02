@@ -34,10 +34,10 @@
 <a href="https://github.com/Lynn-Myat-Bhone" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="www.linkedin.com/in/lynn-myat-bhone-5b15732a4">
+<a href="https://www.linkedin.com/in/lynn-myat-bhone-5b15732a4/">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/@lynn_3112" target="_blank">
+<a href="https://www.instagram.com/_lynn_3112?utm_source=qr&igsh=MTFsb2c3eG5idHFmaw==">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
