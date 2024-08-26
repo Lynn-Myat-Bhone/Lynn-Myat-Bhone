@@ -5,8 +5,9 @@
   <br/>
 
 - 🔭 I am currently studying at University of Computer Studies Yangon.
-- 🔭 Learning Data science at DataCamp. 
-- ⚡ Fun fact: I love drawing and painting  
+- 🔭 Studying Data science at DataCamp.
+- 🔭 Studying Computer Vision at Handong Global University.
+- ⚡ Fun fact: I love drawing and painting..
   <br/>  
 
 
