@@ -6,7 +6,7 @@
 
 - 🔭 I am currently studying at University of Computer Studies Yangon.
 - 🔭 Studying Data science at DataCamp.
-- 🔭 Studying Tensorflow and NLP at OpenCV.
+- 🔭 Studying Tensorflow and Neural Networks at OpenCV University.
 - ⚡ Fun fact: I love drawing and painting..
   <br/>  
 
