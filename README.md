@@ -1,7 +1,7 @@
 <div align="center">
 <img src="6vw5.gif" align="center" style="width: 100%" />
 </div>  
-### <div align="center">I'm LynnMyat Bhone, Newbie Machine Learning Enginner 👨‍💻 </div>  
+### <div align="center">I'm LynnMyat Bhone, I'm gonna be the King of Pirates </div>  
   <br/>
 
 - 🔭 I am currently studying at University of Computer Studies Yangon.
