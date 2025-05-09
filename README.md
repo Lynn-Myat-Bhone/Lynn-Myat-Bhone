@@ -18,9 +18,6 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/Lynn-Myat-Bhone" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://www.linkedin.com/in/lynn-myat-bhone-5b15732a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
