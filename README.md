@@ -1,7 +1,7 @@
 <div align="center">
 <img src="6vw5.gif" align="center" style="width: 100%" />
 </div>  
-### <div align="center"> Live </div>  
+<div align="center"> Don't try to Live so Wise </div>  
   <br/>
 
 - 🔭 I am currently studying at University of Computer Studies Yangon.
